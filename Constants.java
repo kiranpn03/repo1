@@ -1,6 +1,6 @@
 package com.aa.apauto.connectme.util;
 
-public class Constants1 
+public class Constants 
 {
 
 	public static final String FLIGHT_SERVICE = "FlightService";
