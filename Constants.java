@@ -185,5 +185,6 @@ public class Constants
 	 public static final String SEND_MSG_WRGP = "SABRE";
 	 public static final String SEND_MSG_ROLE = "FlightHub";
 	 public static final String SEND_MSG_USR = "00999999";
+	 public static final String SEND_MSG_ERR = "0088888";
 	 
 }
